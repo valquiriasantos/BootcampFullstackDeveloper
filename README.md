@@ -1,2 +1,2 @@
-# DesafioDIO
-Desafio DIO | Git &amp; GitHUb • Primeiro Repositório
+# Santander Bootcamp | Fullstack Developer • DIO 🚀
+Repositório dedicado ao Santander Bootcamp | Fullstack Developer • DIO.
